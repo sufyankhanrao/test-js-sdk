@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.0",
   "license": "MIT",
   "sideEffects": false,
   "main": "dist/cjs/index.js",
@@ -32,9 +32,7 @@
   "name": "jsonvaluetesterlib",
   "description": "Testing Special JsonValue feature",
   "author": {
-    "name": "testing",
-    "email": "test@gmail.com",
-    "url": "https://apimatic.io"
+    "name": "APIMATIC SDK Generator"
   },
   "devDependencies": {
     "@apimatic/test-utilities": "^0.0.1",
@@ -54,7 +52,6 @@
     "@apimatic/schema": "^0.7.12"
   },
   "bugs": {
-    "url": "https://apimatic.io",
-    "email": "test@gmail.com"
+    "email": "support@apimatic.io"
   }
 }
