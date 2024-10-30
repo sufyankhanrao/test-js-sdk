@@ -1,5 +1,5 @@
 
-# Getting Started with Json Value Tester
+# Getting Started with JsonValueTester
 
 ## Introduction
 
@@ -33,7 +33,7 @@ npm install
 
 - This will install all dependencies in the **node_modules** folder.
 
-![Resolve Dependencies](https://apidocs.io/illustration/typescript?workspaceFolder=JsonValueTester&workspaceName=json-value-testerlib&step=resolveDependency)
+![Resolve Dependencies](https://apidocs.io/illustration/typescript?workspaceFolder=JsonValueTester&workspaceName=jsonvaluetesterlib&step=resolveDependency)
 
 ## Installation
 
@@ -57,9 +57,9 @@ npm init --y
 
 ### 2. Add Dependencies to the Client Library
 
-- The created project manages its dependencies using its `package.json` file. In order to add a dependency on the *Json Value TesterLib* client library, double click on the `package.json` file in the bar on the left and add the dependency to the package in it.
+- The created project manages its dependencies using its `package.json` file. In order to add a dependency on the *JsonValueTesterLib* client library, double click on the `package.json` file in the bar on the left and add the dependency to the package in it.
 
-![Add JsonValueTesterlib Dependency](https://apidocs.io/illustration/typescript?workspaceFolder=JsonValueTester&workspaceName=json-value-testerlib&step=importDependency)
+![Add Jsonvaluetesterlib Dependency](https://apidocs.io/illustration/typescript?workspaceFolder=JsonValueTester&workspaceName=jsonvaluetesterlib&step=importDependency)
 
 - To install the package in the project, run the following command in the terminal:
 
@@ -67,7 +67,7 @@ npm init --y
 npm install
 ```
 
-![Install JsonValueTesterlib Dependency](https://apidocs.io/illustration/typescript?step=installDependency)
+![Install Jsonvaluetesterlib Dependency](https://apidocs.io/illustration/typescript?step=installDependency)
 
 ## Test the SDK
 
@@ -87,7 +87,7 @@ npm run test:coverage
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sufyankhanrao/test-js-sdk/tree/1.1.3/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/sufyankhanrao/test-js-sdk/tree/2.0.0/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -141,11 +141,11 @@ The SDK can be configured to use a different environment for making API calls. A
 
 ## List of APIs
 
-* [Json Obj](https://www.github.com/sufyankhanrao/test-js-sdk/tree/1.1.3/doc/controllers/json-obj.md)
-* [Json Val](https://www.github.com/sufyankhanrao/test-js-sdk/tree/1.1.3/doc/controllers/json-val.md)
+* [Json Obj](https://www.github.com/sufyankhanrao/test-js-sdk/tree/2.0.0/doc/controllers/json-obj.md)
+* [Json Val](https://www.github.com/sufyankhanrao/test-js-sdk/tree/2.0.0/doc/controllers/json-val.md)
 
 ## Classes Documentation
 
-* [ApiResponse](https://www.github.com/sufyankhanrao/test-js-sdk/tree/1.1.3/doc/api-response.md)
-* [ApiError](https://www.github.com/sufyankhanrao/test-js-sdk/tree/1.1.3/doc/api-error.md)
+* [ApiResponse](https://www.github.com/sufyankhanrao/test-js-sdk/tree/2.0.0/doc/api-response.md)
+* [ApiError](https://www.github.com/sufyankhanrao/test-js-sdk/tree/2.0.0/doc/api-error.md)
 
